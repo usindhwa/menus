@@ -1,0 +1,4 @@
+let categories = [];
+let menus = {};
+
+
